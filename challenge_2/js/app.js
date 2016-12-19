@@ -15,8 +15,8 @@ function ClassController() {
 	this.class_name = "WDI",
 	this.enrolled_students = "me",
 	this.start_date = "Halloween",
-	this.end_date = "Feb 2nd"
+	this.end_date = "Feb 2nd",
 	this.daysRemaining = function() {
-		
-	};
+
+	}
 }
